@@ -1,0 +1,3 @@
+This 3D model shows a pneumatic cylinder of four different sizes.
+The cylinder length can be customized by adjusting the stroke using equations in SolidWorks for the Cylinder Barrel and Piston Rod.
+Detailed stroke lengths are available in the provided "Product Description" PDF.
